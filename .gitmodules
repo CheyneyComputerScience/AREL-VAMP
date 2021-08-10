@@ -1,3 +1,6 @@
 [submodule "exp1-video"]
 	path = exp1-video
 	url = https://github.com/CheyneyComputerScience/CARE-U-AREL-exp1-video.git
+[submodule "exp1-stills"]
+	path = exp1-stills
+	url = https://github.com/CheyneyComputerScience/AREL-exp1-stills.git
