@@ -1,0 +1,3 @@
+[submodule "exp1-video"]
+	path = exp1-video
+	url = https://github.com/CheyneyComputerScience/CARE-U-AREL-exp1-video.git
